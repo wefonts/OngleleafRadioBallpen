@@ -9,7 +9,7 @@
     font-display: swap;
 }
 
-OngleleafRadioBallpen {
+.OngleleafRadioBallpen {
     font-family: "OngleleafRadioBallpen";
 }
   
